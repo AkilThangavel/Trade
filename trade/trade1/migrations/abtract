@@ -1,0 +1,35 @@
+Interactive healthcare advisor model using chatbot
+
+In the fourth industrial revolution, utilizing the influx of numerous information have significant influences on human lives. In particular, the use of artificial intelligence data in the medical field will have great potential to change and affect the society. Here we report the components necessary for implementing the interactive healthcare advisor model (IHAM) and chatbot-based IHAM. The biological information of target users used in the research, including body temperature, oxygen saturation (SpO2), pulse and etc., was measured and analyzed with biologically, as well as using interactive chatbot to analyze the everyday biophysical conditions. Moreover, the accumulated biological information in the chatbot are delivered to the users through the chatbot and further provides medical advices to promote the user's general health. Through this implementation, we will confirm the applicability of the health care advisor model in the future and present future research directions.
+
+
+Existing system
+
+Flow-based  also restrictive. 
+
+Users cannot diverge from the intended conversation options at all.
+
+user may find themselves disappointed if the chatbot isn’t equipped to handle their query.
+
+Flow-based chatbot works using specific keywords and prescriptive buttons.
+
+Proposed System 
+
+ChatGPT is its ability to learn and adapt quickly to new information. 
+
+Based on the keywords used in the text, appropriate context is
+recognized.
+
+
+If the user is trying to make a normal conversation with the
+bot, the input is mapped to an appropriate pattern in
+Artificial Intelligence Modeling Language (AIML) files. 
+
+
+However, the key benefits of chatbots in the healthcare sector are as follows:
+
+Instant access to care 
+
+Monitor user behavior 
+
+Bots save money

@@ -1,0 +1,19 @@
+Modules
+* Selection of Stocks
+To select and rank stocks according to price movements, proposed method has two flows; obtaining stock prices, and selecting stocks based on obtained price movements. First, on the basis of the given obtaining stock prices, the proposed method with high similarity using an ensemble of stock selection models. Then, we modify the similarity based on the results of the stocks movements from the live market tick data. Second, the top-10 similar stocks are matched to the price data, and we select stock  related to the data of each company. Finally, we select the top-n related stocks based on the obtained final similarity. Targeting the data, companies, and stocks, we achieved 0.49 accuracy (precision, recall, and F1-value), which is better than the result of randomly selecting. 
+
+
+* Efficient market hypothesis
+
+Efficient market hypothesis states that the current share prices reflect all relevant information about the underlying company. According to this widely accepted hypothesis, it is impossible for investors to consistently outperform the indices in the long run. Furthermore, the Random Walk Hypothesis, which is consistent with the Efficient Market Hypothesis, states that stock prices evolve in a random manner and price changes are independent of each other. This implies an absence of any
+persisting trends in the stock market that could possibly be taken advantage of with market timing strategies. We apply the Rescaled Range methodology for calculating the Hurst Exponent to Indian stock market data from 1996 to 2023 to determine the persistence of any trends, and hence to check for the predictability of the Indian markets on different time scales. Our results show that Indian stock markets do not conform to EMH, especially on consideration of larger time scales. The results have large implications on the nature of investment strategies and investor behavior with respect to the Indian stock market.
+
+* Analysis of Stock Market using Streaming data
+
+It has been proved that the decisions in stock market exchange may bring influence on the investors, financial institutions, banking sectors etc. The stock market is a highly composite system in addition often concealed with mystery, it is therefore, very difficult to analyze all the impacting factors before making a decision. In this research, we have tried to design a stock market prediction model which is considers different parameters of a particular stock. Analysis is performed after obtaining the stock scores. This analysis involves visualization of stock scores in the form of various plots and prediction of the scores using a time series model known as ARIMA (auto regressive moving average). The results shows that the time series model performed a descent prediction of the market scores with considerably high accuracy. Each factor was studied independently to find out its association with market performance. Furthermore the results suggests that
+behavior of market can be predicted using machine learning techniques.
+
+* Stock Prediction
+The stock market analysis and forecasting has been a vital and emerging trend since developments in the field of machine learning. Almost all the financial institutions, brokerage firms, banking sectors etc. today use such analysis methods in order to gain knowledge about stock scores. Since 2008s financial meltdown, even government bodies in developed and developing countries have been actively monitoring the financial markets. The important factor involved in the monitoring has been providing security assurances to the volatile firms. The basic objective of stock market forecasting has been, in aiding to make the buy, sell or hold decision.
+
+

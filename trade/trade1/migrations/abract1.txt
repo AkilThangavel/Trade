@@ -1,0 +1,12 @@
+Abstract:
+The easy access to share information and data, many investors worldwide are interested in predicting stock prices. 
+The prediction of stock prices using data mining techniques applied to technical variables has been widely researched 
+but not much research to date has been done in applying data mining techniques to both technical and fundamental information. 
+The trading strategy is based on a personal approach to stock selection, using both technical and fundamental information. 
+we construct a framework that enables us to make class predictions about industrial stock companies' financial performances. 
+In order to have a systemized approach for the selection of stocks and a high likelihood of the performance of the stock price increasing, a Data Mining Approach is applied. 
+A trading strategy is also designed and the performance of the stocks evaluated. 
+Our two goals are to validate our stock selection methodology and to determine whether our trading strategy allows us to outperform the stock market. 
+Simulation results show that our selected stock portfolios outperform the stock All-Ordinaries Index. 
+Our findings justify the use of data mining techniques for classification and prediction purposes.
+Further, in conclusion, we can safely say that our stock selection and trading strategy outperformed.
